@@ -97,7 +97,7 @@ Map<String, String> en = {
   "HT": "Haiti",
   "HM": "Heard Island and McDonald Islands",
   "HN": "Honduras",
-  "HK": "Hong Kong",
+  "HK": "Hong Kong, China",
   "HU": "Hungary",
   "IS": "Iceland",
   "IN": "India",
