@@ -64,10 +64,11 @@ class CountryLocalizations {
       _CountryLocalizationsDelegate();
 
   /// The localized country name for the given country code.
-  String? countryName({required String countryCode}) {
-    switch (locale.languageCode) {
+  String? countryName({required String countryCode, Locale? locale}) {
+    final Locale _locale = locale ?? this.locale;
+    switch (_locale.languageCode) {
       case 'zh':
-        switch (locale.scriptCode) {
+        switch (_locale.scriptCode) {
           case 'Hant':
             return tw[countryCode];
           case 'Hans':
