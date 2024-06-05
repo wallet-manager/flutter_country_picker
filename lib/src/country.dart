@@ -120,7 +120,11 @@ class Country {
     return data;
   }
 
-  bool startsWith(String query, CountryLocalizations? localizations) {
+  bool startsWith(
+    String query,
+    CountryLocalizations? localizations,
+    Locale? locale,
+  ) {
     String _query = query;
     if (query.startsWith("+")) {
       _query = query.replaceAll("+", "").trim();
@@ -129,7 +133,10 @@ class Country {
         name.toLowerCase().startsWith(_query.toLowerCase()) ||
         countryCode.toLowerCase().startsWith(_query.toLowerCase()) ||
         (localizations
-                ?.countryName(countryCode: countryCode)
+                ?.countryName(
+                  countryCode: countryCode,
+                  locale: locale,
+                )
                 ?.toLowerCase()
                 .startsWith(_query.toLowerCase()) ??
             false);

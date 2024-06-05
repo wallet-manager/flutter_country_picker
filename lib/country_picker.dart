@@ -66,6 +66,7 @@ void showCountryPicker({
   bool useSafeArea = false,
   bool useRootNavigator = false,
   bool moveAlongWithKeyboard = false,
+  Locale? locale,
 }) {
   assert(
     exclude == null || countryFilter == null,
@@ -87,5 +88,6 @@ void showCountryPicker({
     useSafeArea: useSafeArea,
     useRootNavigator: useRootNavigator,
     moveAlongWithKeyboard: moveAlongWithKeyboard,
+    locale: locale,
   );
 }
