@@ -184,13 +184,17 @@ class _CountryListViewState extends State<CountryListView> {
 
     final bool isRtl = Directionality.of(context) == TextDirection.rtl;
 
+    CountryLocalizations? localizations = widget.locale != null
+        ? CountryLocalizations(widget.locale!)
+        : CountryLocalizations.of(context);
+
     return Material(
       // Add Material Widget with transparent color
       // so the ripple effect of InkWell will show on tap
       color: Colors.transparent,
       child: InkWell(
         onTap: () {
-          country.nameLocalized = CountryLocalizations.of(context)
+          country.nameLocalized = localizations
               ?.countryName(
                 countryCode: country.countryCode,
                 locale: widget.locale,
@@ -226,7 +230,7 @@ class _CountryListViewState extends State<CountryListView> {
               ),
               Expanded(
                 child: Text(
-                  CountryLocalizations.of(context)
+                  localizations
                           ?.countryName(
                             countryCode: country.countryCode,
                             locale: widget.locale,
