@@ -110,6 +110,7 @@ Widget _builder(
         showWorldWide: showWorldWide,
         showSearch: showSearch,
         customFlagBuilder: customFlagBuilder,
+        locale: locale,
       ),
     ),
   );
