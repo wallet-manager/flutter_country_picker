@@ -2,6 +2,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "93",
     "iso2_cc": "AF",
+    "a3": "AFG",
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -15,6 +16,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "358",
     "iso2_cc": "AX",
+    "a3": "ALA",
     "e164_sc": 0,
     "geographic": true,
     "level": 3,
@@ -28,6 +30,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "355",
     "iso2_cc": "AL",
+    "a3": "ALB",
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -41,6 +44,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "213",
     "iso2_cc": "DZ",
+    "a3": "DZA",
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -54,6 +58,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "1",
     "iso2_cc": "AS",
+    "a3": "ASM",
     "e164_sc": 0,
     "geographic": true,
     "level": 2,
@@ -67,6 +72,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "376",
     "iso2_cc": "AD",
+    "a3": "AND",
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -80,6 +86,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "244",
     "iso2_cc": "AO",
+    "a3": "AGO",
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -93,6 +100,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "1",
     "iso2_cc": "AI",
+    "a3": "AIA",
     "e164_sc": 0,
     "geographic": true,
     "level": 2,
@@ -106,6 +114,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "1",
     "iso2_cc": "AG",
+    "a3": "ATG",
     "e164_sc": 0,
     "geographic": true,
     "level": 2,
@@ -119,6 +128,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "54",
     "iso2_cc": "AR",
+    "a3": "ARG",
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -132,6 +142,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "374",
     "iso2_cc": "AM",
+    "a3": "ARM",
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -145,6 +156,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "297",
     "iso2_cc": "AW",
+    "a3": "ABW",
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -158,6 +170,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "247",
     "iso2_cc": "AC",
+    "a3": "ACC",
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -171,6 +184,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "61",
     "iso2_cc": "AU",
+    "a3": "AUS",
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -184,6 +198,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "43",
     "iso2_cc": "AT",
+    "a3": "AUT",
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -197,6 +212,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "994",
     "iso2_cc": "AZ",
+    "a3": "AZE",
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -210,6 +226,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "1",
     "iso2_cc": "BS",
+    "a3": "BHS",
     "e164_sc": 0,
     "geographic": true,
     "level": 2,
@@ -223,6 +240,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "973",
     "iso2_cc": "BH",
+    "a3": "BHR",
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -236,6 +254,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "880",
     "iso2_cc": "BD",
+    "a3": "BGD",
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -249,6 +268,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "1",
     "iso2_cc": "BB",
+    "a3": "BRB",
     "e164_sc": 0,
     "geographic": true,
     "level": 2,
@@ -262,6 +282,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "375",
     "iso2_cc": "BY",
+    "a3": "BLR",
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -275,6 +296,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "32",
     "iso2_cc": "BE",
+    "a3": "BEL",
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -288,6 +310,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "501",
     "iso2_cc": "BZ",
+    "a3": "BLZ",
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -301,6 +324,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "229",
     "iso2_cc": "BJ",
+    "a3": "BEN",
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -314,6 +338,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "1",
     "iso2_cc": "BM",
+    "a3": "BMU",
     "e164_sc": 0,
     "geographic": true,
     "level": 2,
@@ -327,6 +352,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "975",
     "iso2_cc": "BT",
+    "a3": 'BTN',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -340,6 +366,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "591",
     "iso2_cc": "BO",
+    "a3": 'BOL',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -353,6 +380,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "387",
     "iso2_cc": "BA",
+    "a3": 'BIH',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -366,6 +394,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "267",
     "iso2_cc": "BW",
+    "a3": 'BWA',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -379,6 +408,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "55",
     "iso2_cc": "BR",
+    "a3": 'BRA',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -392,6 +422,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "246",
     "iso2_cc": "IO",
+    "a3": 'IOT',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -405,6 +436,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "1",
     "iso2_cc": "VG",
+    "a3": 'VGB',
     "e164_sc": 0,
     "geographic": true,
     "level": 2,
@@ -418,6 +450,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "673",
     "iso2_cc": "BN",
+    "a3": 'BRN',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -431,6 +464,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "359",
     "iso2_cc": "BG",
+    "a3": 'BGR',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -444,6 +478,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "226",
     "iso2_cc": "BF",
+    "a3": 'BFA',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -457,6 +492,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "257",
     "iso2_cc": "BI",
+    "a3": 'BDI',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -470,6 +506,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "855",
     "iso2_cc": "KH",
+    "a3": 'KHM',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -483,6 +520,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "237",
     "iso2_cc": "CM",
+    "a3": 'CMR',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -496,6 +534,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "1",
     "iso2_cc": "CA",
+    "a3": 'CAN',
     "e164_sc": 0,
     "geographic": true,
     "level": 2,
@@ -509,6 +548,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "238",
     "iso2_cc": "CV",
+    "a3": 'CPV',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -522,6 +562,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "599",
     "iso2_cc": "BQ",
+    "a3": 'BES',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -535,6 +576,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "1",
     "iso2_cc": "KY",
+    "a3": 'CYM',
     "e164_sc": 0,
     "geographic": true,
     "level": 2,
@@ -548,6 +590,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "236",
     "iso2_cc": "CF",
+    "a3": 'CAF',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -561,6 +604,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "235",
     "iso2_cc": "TD",
+    "a3": 'TCD',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -574,6 +618,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "56",
     "iso2_cc": "CL",
+    "a3": 'CHL',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -587,6 +632,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "86",
     "iso2_cc": "CN",
+    "a3": 'CHN',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -600,6 +646,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "61",
     "iso2_cc": "CX",
+    "a3": 'CXR',
     "e164_sc": 0,
     "geographic": true,
     "level": 3,
@@ -613,6 +660,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "61",
     "iso2_cc": "CC",
+    "a3": 'CCK',
     "e164_sc": 0,
     "geographic": true,
     "level": 3,
@@ -626,6 +674,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "57",
     "iso2_cc": "CO",
+    "a3": 'COL',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -639,6 +688,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "269",
     "iso2_cc": "KM",
+    "a3": 'COM',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -652,6 +702,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "243",
     "iso2_cc": "CD",
+    "a3": 'COD',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -665,6 +716,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "242",
     "iso2_cc": "CG",
+    "a3": 'COG',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -678,6 +730,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "682",
     "iso2_cc": "CK",
+    "a3": 'COK',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -691,6 +744,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "506",
     "iso2_cc": "CR",
+    "a3": 'CRI',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -704,6 +758,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "225",
     "iso2_cc": "CI",
+    "a3": 'CIV',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -717,6 +772,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "385",
     "iso2_cc": "HR",
+    "a3": 'HRV',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -730,6 +786,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "53",
     "iso2_cc": "CU",
+    "a3": 'CUB',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -743,6 +800,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "599",
     "iso2_cc": "CW",
+    "a3": 'CUW',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -756,6 +814,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "357",
     "iso2_cc": "CY",
+    "a3": 'CYP',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -769,6 +828,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "420",
     "iso2_cc": "CZ",
+    "a3": 'CZE',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -782,6 +842,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "45",
     "iso2_cc": "DK",
+    "a3": 'DNK',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -795,6 +856,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "253",
     "iso2_cc": "DJ",
+    "a3": 'DJI',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -808,6 +870,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "1",
     "iso2_cc": "DM",
+    "a3": 'DMA',
     "e164_sc": 0,
     "geographic": true,
     "level": 2,
@@ -821,6 +884,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "1",
     "iso2_cc": "DO",
+    "a3": 'DOM',
     "e164_sc": 0,
     "geographic": true,
     "level": 2,
@@ -834,6 +898,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "670",
     "iso2_cc": "TL",
+    "a3": 'TLS',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -847,6 +912,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "593",
     "iso2_cc": "EC",
+    "a3": 'ECU',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -860,6 +926,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "20",
     "iso2_cc": "EG",
+    "a3": 'EGY',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -873,6 +940,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "503",
     "iso2_cc": "SV",
+    "a3": 'SLV',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -886,6 +954,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "240",
     "iso2_cc": "GQ",
+    "a3": 'GNQ',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -899,6 +968,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "291",
     "iso2_cc": "ER",
+    "a3": 'ERI',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -912,6 +982,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "372",
     "iso2_cc": "EE",
+    "a3": 'EST',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -925,6 +996,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "268",
     "iso2_cc": "SZ",
+    "a3": 'SWZ',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -938,6 +1010,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "251",
     "iso2_cc": "ET",
+    "a3": 'ETH',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -951,6 +1024,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "500",
     "iso2_cc": "FK",
+    "a3": 'FLK',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -964,6 +1038,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "298",
     "iso2_cc": "FO",
+    "a3": 'FRO',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -977,6 +1052,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "679",
     "iso2_cc": "FJ",
+    "a3": 'FJI',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -990,6 +1066,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "358",
     "iso2_cc": "FI",
+    "a3": 'FIN',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -1003,6 +1080,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "33",
     "iso2_cc": "FR",
+    "a3": 'FRA',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -1016,6 +1094,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "594",
     "iso2_cc": "GF",
+    "a3": 'GUF',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -1029,6 +1108,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "689",
     "iso2_cc": "PF",
+    "a3": 'PYF',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -1042,6 +1122,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "241",
     "iso2_cc": "GA",
+    "a3": 'GAB',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -1055,6 +1136,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "220",
     "iso2_cc": "GM",
+    "a3": 'GMB',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -1068,6 +1150,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "995",
     "iso2_cc": "GE",
+    "a3": 'GEO',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -1081,6 +1164,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "49",
     "iso2_cc": "DE",
+    "a3": 'DEU',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -1094,6 +1178,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "233",
     "iso2_cc": "GH",
+    "a3": 'GHA',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -1107,6 +1192,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "350",
     "iso2_cc": "GI",
+    "a3": 'GIB',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -1120,6 +1206,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "30",
     "iso2_cc": "GR",
+    "a3": 'GRC',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -1133,6 +1220,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "299",
     "iso2_cc": "GL",
+    "a3": 'GRL',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -1146,6 +1234,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "1",
     "iso2_cc": "GD",
+    "a3": 'GRD',
     "e164_sc": 0,
     "geographic": true,
     "level": 2,
@@ -1159,6 +1248,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "590",
     "iso2_cc": "GP",
+    "a3": 'GLP',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -1172,6 +1262,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "1",
     "iso2_cc": "GU",
+    "a3": 'GUM',
     "e164_sc": 0,
     "geographic": true,
     "level": 2,
@@ -1185,6 +1276,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "502",
     "iso2_cc": "GT",
+    "a3": 'GTM',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -1198,6 +1290,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "44",
     "iso2_cc": "GG",
+    "a3": 'GGY',
     "e164_sc": 0,
     "geographic": true,
     "level": 2,
@@ -1211,6 +1304,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "224",
     "iso2_cc": "GN",
+    "a3": 'GIN',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -1224,6 +1318,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "245",
     "iso2_cc": "GW",
+    "a3": 'GNB',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -1237,6 +1332,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "592",
     "iso2_cc": "GY",
+    "a3": 'GUY',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -1250,6 +1346,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "509",
     "iso2_cc": "HT",
+    "a3": 'HTI',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -1263,6 +1360,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "672",
     "iso2_cc": "HM",
+    "a3": 'HMD',
     "e164_sc": 0,
     "geographic": true,
     "level": 3,
@@ -1276,6 +1374,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "504",
     "iso2_cc": "HN",
+    "a3": 'HND',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -1289,6 +1388,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "852",
     "iso2_cc": "HK",
+    "a3": 'HKG',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -1302,6 +1402,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "36",
     "iso2_cc": "HU",
+    "a3": 'HUN',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -1315,6 +1416,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "354",
     "iso2_cc": "IS",
+    "a3": 'ISL',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -1328,6 +1430,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "91",
     "iso2_cc": "IN",
+    "a3": 'IND',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -1341,6 +1444,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "62",
     "iso2_cc": "ID",
+    "a3": 'IDN',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -1354,6 +1458,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "98",
     "iso2_cc": "IR",
+    "a3": 'IRN',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -1367,6 +1472,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "964",
     "iso2_cc": "IQ",
+    "a3": 'IRQ',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -1380,6 +1486,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "353",
     "iso2_cc": "IE",
+    "a3": 'IRL',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -1393,6 +1500,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "44",
     "iso2_cc": "IM",
+    "a3": 'IMN',
     "e164_sc": 0,
     "geographic": true,
     "level": 2,
@@ -1406,6 +1514,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "972",
     "iso2_cc": "IL",
+    "a3": 'ISR',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -1419,6 +1528,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "39",
     "iso2_cc": "IT",
+    "a3": 'ITA',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -1432,6 +1542,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "1",
     "iso2_cc": "JM",
+    "a3": 'JAM',
     "e164_sc": 0,
     "geographic": true,
     "level": 2,
@@ -1445,6 +1556,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "81",
     "iso2_cc": "JP",
+    "a3": 'JPN',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -1458,6 +1570,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "44",
     "iso2_cc": "JE",
+    "a3": 'JEY',
     "e164_sc": 0,
     "geographic": true,
     "level": 2,
@@ -1471,6 +1584,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "962",
     "iso2_cc": "JO",
+    "a3": 'JOR',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -1484,6 +1598,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "7",
     "iso2_cc": "KZ",
+    "a3": 'KZA',
     "e164_sc": 0,
     "geographic": true,
     "level": 2,
@@ -1497,6 +1612,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "254",
     "iso2_cc": "KE",
+    "a3": 'KEN',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -1510,6 +1626,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "686",
     "iso2_cc": "KI",
+    "a3": 'KIR',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -1523,6 +1640,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "383",
     "iso2_cc": "XK",
+    "a3": 'XKK',
     "e164_sc": 0,
     "geographic": true,
     "level": 2,
@@ -1536,6 +1654,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "965",
     "iso2_cc": "KW",
+    "a3": 'KWT',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -1549,6 +1668,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "996",
     "iso2_cc": "KG",
+    "a3": 'KGZ',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -1562,6 +1682,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "856",
     "iso2_cc": "LA",
+    "a3": 'LAO',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -1575,6 +1696,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "371",
     "iso2_cc": "LV",
+    "a3": 'LVA',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -1588,6 +1710,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "961",
     "iso2_cc": "LB",
+    "a3": 'LBN',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -1601,6 +1724,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "266",
     "iso2_cc": "LS",
+    "a3": 'LSO',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -1614,6 +1738,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "231",
     "iso2_cc": "LR",
+    "a3": 'LBR',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -1627,6 +1752,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "218",
     "iso2_cc": "LY",
+    "a3": 'LBY',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -1640,6 +1766,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "423",
     "iso2_cc": "LI",
+    "a3": 'LIE',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -1653,6 +1780,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "370",
     "iso2_cc": "LT",
+    "a3": 'LTU',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -1666,6 +1794,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "352",
     "iso2_cc": "LU",
+    "a3": 'LUX',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -1679,6 +1808,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "853",
     "iso2_cc": "MO",
+    "a3": 'MAC',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -1692,6 +1822,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "389",
     "iso2_cc": "MK",
+    "a3": 'MKD',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -1705,6 +1836,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "261",
     "iso2_cc": "MG",
+    "a3": 'MDG',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -1718,6 +1850,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "265",
     "iso2_cc": "MW",
+    "a3": 'MWI',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -1731,6 +1864,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "60",
     "iso2_cc": "MY",
+    "a3": 'MYS',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -1744,6 +1878,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "960",
     "iso2_cc": "MV",
+    "a3": 'MDV',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -1757,6 +1892,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "223",
     "iso2_cc": "ML",
+    "a3": 'MLI',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -1770,6 +1906,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "356",
     "iso2_cc": "MT",
+    "a3": 'MLT',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -1783,6 +1920,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "692",
     "iso2_cc": "MH",
+    "a3": 'MHL',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -1796,6 +1934,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "596",
     "iso2_cc": "MQ",
+    "a3": 'MTQ',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -1809,6 +1948,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "222",
     "iso2_cc": "MR",
+    "a3": 'MRT',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -1822,6 +1962,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "230",
     "iso2_cc": "MU",
+    "a3": 'MUS',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -1835,6 +1976,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "262",
     "iso2_cc": "YT",
+    "a3": 'MYT',
     "e164_sc": 0,
     "geographic": true,
     "level": 2,
@@ -1848,6 +1990,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "52",
     "iso2_cc": "MX",
+    "a3": 'MEX',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -1861,6 +2004,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "691",
     "iso2_cc": "FM",
+    "a3": 'FSM',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -1874,6 +2018,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "373",
     "iso2_cc": "MD",
+    "a3": 'MDA',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -1887,6 +2032,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "377",
     "iso2_cc": "MC",
+    "a3": 'MCO',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -1900,6 +2046,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "976",
     "iso2_cc": "MN",
+    "a3": 'MNG',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -1913,6 +2060,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "382",
     "iso2_cc": "ME",
+    "a3": 'MNE',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -1926,6 +2074,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "1",
     "iso2_cc": "MS",
+    "a3": 'MSR',
     "e164_sc": 0,
     "geographic": true,
     "level": 2,
@@ -1939,6 +2088,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "212",
     "iso2_cc": "MA",
+    "a3": 'MAR',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -1952,6 +2102,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "258",
     "iso2_cc": "MZ",
+    "a3": 'MOZ',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -1965,6 +2116,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "95",
     "iso2_cc": "MM",
+    "a3": 'MMR',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -1978,6 +2130,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "264",
     "iso2_cc": "NA",
+    "a3": 'NAM',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -1991,6 +2144,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "674",
     "iso2_cc": "NR",
+    "a3": 'NRU',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -2004,6 +2158,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "977",
     "iso2_cc": "NP",
+    "a3": 'NPL',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -2017,6 +2172,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "31",
     "iso2_cc": "NL",
+    "a3": 'NLD',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -2030,6 +2186,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "687",
     "iso2_cc": "NC",
+    "a3": 'NCL',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -2043,6 +2200,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "64",
     "iso2_cc": "NZ",
+    "a3": 'NZL',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -2056,6 +2214,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "505",
     "iso2_cc": "NI",
+    "a3": 'NIC',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -2069,6 +2228,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "227",
     "iso2_cc": "NE",
+    "a3": 'NER',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -2082,6 +2242,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "234",
     "iso2_cc": "NG",
+    "a3": 'NGA',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -2095,6 +2256,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "683",
     "iso2_cc": "NU",
+    "a3": 'NIU',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -2108,6 +2270,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "672",
     "iso2_cc": "NF",
+    "a3": 'NFK',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -2121,6 +2284,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "850",
     "iso2_cc": "KP",
+    "a3": 'PRK',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -2134,6 +2298,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "1",
     "iso2_cc": "MP",
+    "a3": 'MNP',
     "e164_sc": 0,
     "geographic": true,
     "level": 2,
@@ -2147,6 +2312,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "47",
     "iso2_cc": "NO",
+    "a3": 'NOR',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -2160,6 +2326,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "968",
     "iso2_cc": "OM",
+    "a3": 'OMN',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -2173,6 +2340,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "92",
     "iso2_cc": "PK",
+    "a3": 'PAK',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -2186,6 +2354,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "680",
     "iso2_cc": "PW",
+    "a3": 'PLW',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -2199,6 +2368,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "970",
     "iso2_cc": "PS",
+    "a3": 'PSE',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -2212,6 +2382,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "507",
     "iso2_cc": "PA",
+    "a3": 'PAN',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -2225,6 +2396,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "675",
     "iso2_cc": "PG",
+    "a3": 'PNG',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -2238,6 +2410,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "595",
     "iso2_cc": "PY",
+    "a3": 'PRY',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -2251,6 +2424,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "51",
     "iso2_cc": "PE",
+    "a3": 'PER',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -2264,6 +2438,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "63",
     "iso2_cc": "PH",
+    "a3": 'PHL',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -2277,6 +2452,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "48",
     "iso2_cc": "PL",
+    "a3": 'POL',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -2290,6 +2466,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "351",
     "iso2_cc": "PT",
+    "a3": 'PRT',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -2303,6 +2480,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "1",
     "iso2_cc": "PR",
+    "a3": 'PRI',
     "e164_sc": 0,
     "geographic": true,
     "level": 2,
@@ -2316,6 +2494,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "974",
     "iso2_cc": "QA",
+    "a3": 'QAT',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -2329,6 +2508,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "262",
     "iso2_cc": "RE",
+    "a3": 'REU',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -2342,6 +2522,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "40",
     "iso2_cc": "RO",
+    "a3": 'ROU',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -2355,6 +2536,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "7",
     "iso2_cc": "RU",
+    "a3": 'RUS',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -2368,6 +2550,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "250",
     "iso2_cc": "RW",
+    "a3": 'RWA',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -2381,6 +2564,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "590",
     "iso2_cc": "BL",
+    "a3": 'BLM',
     "e164_sc": 0,
     "geographic": true,
     "level": 2,
@@ -2394,6 +2578,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "290",
     "iso2_cc": "SH",
+    "a3": 'SHN',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -2407,6 +2592,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "1",
     "iso2_cc": "KN",
+    "a3": 'KNA',
     "e164_sc": 0,
     "geographic": true,
     "level": 2,
@@ -2420,6 +2606,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "1",
     "iso2_cc": "LC",
+    "a3": 'LCA',
     "e164_sc": 0,
     "geographic": true,
     "level": 2,
@@ -2433,6 +2620,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "590",
     "iso2_cc": "MF",
+    "a3": 'MAF',
     "e164_sc": 0,
     "geographic": true,
     "level": 2,
@@ -2446,6 +2634,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "508",
     "iso2_cc": "PM",
+    "a3": 'SPM',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -2459,6 +2648,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "1",
     "iso2_cc": "VC",
+    "a3": 'VCT',
     "e164_sc": 0,
     "geographic": true,
     "level": 2,
@@ -2472,6 +2662,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "685",
     "iso2_cc": "WS",
+    "a3": 'WSM',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -2485,6 +2676,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "378",
     "iso2_cc": "SM",
+    "a3": 'SMR',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -2498,6 +2690,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "239",
     "iso2_cc": "ST",
+    "a3": 'STP',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -2511,6 +2704,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "966",
     "iso2_cc": "SA",
+    "a3": 'SAU',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -2524,6 +2718,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "221",
     "iso2_cc": "SN",
+    "a3": 'SEN',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -2537,6 +2732,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "381",
     "iso2_cc": "RS",
+    "a3": 'SRB',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -2550,6 +2746,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "248",
     "iso2_cc": "SC",
+    "a3": 'SYC',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -2563,6 +2760,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "232",
     "iso2_cc": "SL",
+    "a3": 'SLE',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -2576,6 +2774,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "65",
     "iso2_cc": "SG",
+    "a3": 'SGP',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -2589,6 +2788,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "1",
     "iso2_cc": "SX",
+    "a3": 'SXM',
     "e164_sc": 0,
     "geographic": true,
     "level": 2,
@@ -2602,6 +2802,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "421",
     "iso2_cc": "SK",
+    "a3": 'SVK',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -2615,6 +2816,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "386",
     "iso2_cc": "SI",
+    "a3": 'SVN',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -2628,6 +2830,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "677",
     "iso2_cc": "SB",
+    "a3": 'SLB',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -2641,6 +2844,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "252",
     "iso2_cc": "SO",
+    "a3": 'SOM',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -2654,6 +2858,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "27",
     "iso2_cc": "ZA",
+    "a3": 'ZAF',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -2667,6 +2872,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "500",
     "iso2_cc": "GS",
+    "a3": 'SGS',
     "e164_sc": 0,
     "geographic": true,
     "level": 3,
@@ -2681,6 +2887,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "82",
     "iso2_cc": "KR",
+    "a3": 'KOR',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -2694,6 +2901,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "211",
     "iso2_cc": "SS",
+    "a3": 'SSD',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -2707,6 +2915,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "34",
     "iso2_cc": "ES",
+    "a3": 'ESP',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -2720,6 +2929,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "94",
     "iso2_cc": "LK",
+    "a3": 'LKA',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -2733,6 +2943,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "249",
     "iso2_cc": "SD",
+    "a3": 'SDN',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -2746,6 +2957,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "597",
     "iso2_cc": "SR",
+    "a3": 'SUR',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -2759,6 +2971,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "47",
     "iso2_cc": "SJ",
+    "a3": 'SJM',
     "e164_sc": 0,
     "geographic": true,
     "level": 3,
@@ -2772,6 +2985,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "46",
     "iso2_cc": "SE",
+    "a3": 'SWE',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -2785,6 +2999,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "41",
     "iso2_cc": "CH",
+    "a3": 'CHE',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -2798,6 +3013,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "963",
     "iso2_cc": "SY",
+    "a3": 'SYR',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -2811,6 +3027,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "886",
     "iso2_cc": "TW",
+    "a3": 'TWN',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -2824,6 +3041,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "992",
     "iso2_cc": "TJ",
+    "a3": 'TJK',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -2837,6 +3055,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "255",
     "iso2_cc": "TZ",
+    "a3": 'TZA',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -2850,6 +3069,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "66",
     "iso2_cc": "TH",
+    "a3": 'THA',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -2863,6 +3083,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "228",
     "iso2_cc": "TG",
+    "a3": 'TGO',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -2876,6 +3097,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "690",
     "iso2_cc": "TK",
+    "a3": 'TKL',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -2889,6 +3111,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "676",
     "iso2_cc": "TO",
+    "a3": 'TON',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -2902,6 +3125,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "1",
     "iso2_cc": "TT",
+    "a3": 'TTO',
     "e164_sc": 0,
     "geographic": true,
     "level": 2,
@@ -2915,6 +3139,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "216",
     "iso2_cc": "TN",
+    "a3": 'TUN',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -2928,6 +3153,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "90",
     "iso2_cc": "TR",
+    "a3": 'TUR',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -2941,6 +3167,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "993",
     "iso2_cc": "TM",
+    "a3": 'TKM',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -2954,6 +3181,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "1",
     "iso2_cc": "TC",
+    "a3": 'TCA',
     "e164_sc": 0,
     "geographic": true,
     "level": 2,
@@ -2967,6 +3195,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "688",
     "iso2_cc": "TV",
+    "a3": 'TUV',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -2980,6 +3209,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "1",
     "iso2_cc": "VI",
+    "a3": 'VIR',
     "e164_sc": 0,
     "geographic": true,
     "level": 2,
@@ -2993,6 +3223,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "256",
     "iso2_cc": "UG",
+    "a3": 'UGA',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -3006,6 +3237,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "380",
     "iso2_cc": "UA",
+    "a3": 'UKR',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -3019,6 +3251,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "971",
     "iso2_cc": "AE",
+    "a3": 'ARE',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -3032,6 +3265,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "44",
     "iso2_cc": "GB",
+    "a3": 'GBR',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -3045,6 +3279,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "1",
     "iso2_cc": "US",
+    "a3": 'USA',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -3058,6 +3293,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "598",
     "iso2_cc": "UY",
+    "a3": 'URY',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -3071,6 +3307,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "998",
     "iso2_cc": "UZ",
+    "a3": 'UZB',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -3084,6 +3321,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "678",
     "iso2_cc": "VU",
+    "a3": 'VUT',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -3097,6 +3335,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "379",
     "iso2_cc": "VA",
+    "a3": 'VAT',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -3110,6 +3349,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "58",
     "iso2_cc": "VE",
+    "a3": 'VEN',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -3123,6 +3363,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "84",
     "iso2_cc": "VN",
+    "a3": 'VNM',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -3136,6 +3377,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "681",
     "iso2_cc": "WF",
+    "a3": 'WLF',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -3149,6 +3391,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "212",
     "iso2_cc": "EH",
+    "a3": 'ESH',
     "e164_sc": 0,
     "geographic": true,
     "level": 3,
@@ -3162,6 +3405,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "967",
     "iso2_cc": "YE",
+    "a3": 'YEM',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -3175,6 +3419,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "260",
     "iso2_cc": "ZM",
+    "a3": 'ZMB',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
@@ -3188,6 +3433,7 @@ final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "263",
     "iso2_cc": "ZW",
+    "a3": 'ZWE',
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
