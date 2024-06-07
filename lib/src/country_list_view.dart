@@ -184,7 +184,7 @@ class _CountryListViewState extends State<CountryListView> {
 
     final bool isRtl = Directionality.of(context) == TextDirection.rtl;
 
-    CountryLocalizations? localizations = widget.locale != null
+    final CountryLocalizations? localizations = widget.locale != null
         ? CountryLocalizations(widget.locale!)
         : CountryLocalizations.of(context);
 
@@ -268,8 +268,9 @@ class _CountryListViewState extends State<CountryListView> {
 
   void _filterSearchResults(String query) {
     List<Country> _searchResult = <Country>[];
-    final CountryLocalizations? localizations =
-        CountryLocalizations.of(context);
+    final CountryLocalizations? localizations = widget.locale != null
+        ? CountryLocalizations(widget.locale!)
+        : CountryLocalizations.of(context);
 
     if (query.isEmpty) {
       _searchResult.addAll(_countryList);
